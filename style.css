@@ -1,6 +1,11 @@
 /* 1. make li red*/
-
+li {
+    color:rgb(255, 0, 0);
+}
 
 /* 2. make div border orange */
+div {
+    border: 5px solid orange;
+}
 
 /* 3. */
