@@ -8,4 +8,26 @@ div {
     border: 5px solid orange;
 }
 
-/* 3. */
+/* 3. make element with id "donut" background pink */
+#donut {
+    background-color: pink;
+}
+
+/* yikes forgot all the colors */
+/* 4. make elem bg color yellow */
+aside {
+    background-color: yellow;
+}
+
+/* 5. make elem bg color green when hovered over  */
+aside:hover {
+    background-color: rgb(0, 255, 0);
+}
+
+/* 6. set the border colors of the input to blue, indigo, violet, brown */
+input {
+    border-top: solid 3px blue;
+    border-left: solid 3px indigo;
+    border-right: solid 3px violet;
+    border-bottom: solid 3px brown;
+}
